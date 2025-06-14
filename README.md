@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fentyl
+- 👋 Hi, I’m Fentyle
 
 
 <!---
